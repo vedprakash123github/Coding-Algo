@@ -23,6 +23,10 @@ class Heap
                     swap(arr[parent],arr[index]);
                     index=parent;
                 }
+                else
+                {
+                    return;
+                }
             }
         }
 };
