@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Programs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
